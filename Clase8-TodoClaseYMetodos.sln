@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32414.318
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Clase8-TodoClaseYMetodos", "Clase8-TodoClaseYMetodos.csproj", "{338164BD-09A9-46F9-937A-01C12775AEC4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{338164BD-09A9-46F9-937A-01C12775AEC4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{338164BD-09A9-46F9-937A-01C12775AEC4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{338164BD-09A9-46F9-937A-01C12775AEC4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{338164BD-09A9-46F9-937A-01C12775AEC4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D7A05F0E-376C-4E18-873F-3A7F95A0B706}
+	EndGlobalSection
+EndGlobal
